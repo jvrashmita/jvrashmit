@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm jvrashmit</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F615374736573846166%2F&psig=AOvVaw0Loyx0hAe_Zvi-MGOmGiG6&ust=1670512154538000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCICB_u3k5_sCFQAAAAAdAAAAABAE")
-
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jvrashmit&label=Profile%20views&color=0e75b6&style=flat" alt="jvrashmit" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🌱 I’m currently learning **Java python VLSI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
